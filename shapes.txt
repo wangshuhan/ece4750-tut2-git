@@ -1,2 +1,4 @@
 Triangle
 Rectangle
+Ellipes
+Circle
